@@ -23,8 +23,8 @@
     font-style: italic;
 }
 @font-face {
-    font-family: 'OpenSans-SemiBold'; 
-    src: local(OpenSans-SemiBold), url('"fonts\OpenSans-SemiBold.ttf"'); 
+    font-family: 'GenJyuuGothic-Monospace-Regular.ttf'; 
+    src: local(GenJyuuGothic-Monospace-Regular.ttf), url('"fonts\GenJyuuGothic-Monospace-Regular.ttf"'); 
 }
 
 body { 
@@ -34,7 +34,7 @@ body {
 	}
 	
 	#Title {
-		font-family: "migu-1m-regular", sans-serif;
+		font-family: "GenJyuuGothic-Monospace-Regular.ttf", sans-serif;
 		text-align: center;
 		color: #ffffff);
 		margin-top: 275px;
@@ -43,7 +43,7 @@ body {
 	}
 	
 	#searchbox{
-		font-family: "migu-1m-regular", sans-serif;
+		font-family: "GenJyuuGothic-Monospace-Regular.ttf", sans-serif;
 		width: 31%;
 		height: 6%;
 		border: none;
